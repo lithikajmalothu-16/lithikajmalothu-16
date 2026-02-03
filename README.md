@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Lithika!<br>CS freshman who loves collaborating, prototyping, and learning as much as I can along the way.<br>Interested in urban infra tech and ML. I am still discovering where exactly I want to specialize in CS.<br>For fun: I brainstorm startup ideas and pitch them to my friends lol.<br><br>Let’s build cool stuff together! 🚀
+Hi, I’m Lithika!<br>CS freshman who loves collaborating, prototyping, and learning as much as I can along the way.<br>Interested in Finance and its intersection with ML. I am still discovering where exactly I want to specialize in CS.<br>For fun: I brainstorm startup ideas and pitch them to my friends lol.<br><br>Let’s build cool stuff together! 🚀
 
 
 ## 🌐 Socials:
