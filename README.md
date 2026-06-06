@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Lithika!<br>CS freshman who loves collaborating, prototyping, and learning as much as I can along the way.<br>Interested in Renewable Energy Sector and Data Science.<br>For fun: I brainstorm startup ideas.<br><br>Always open to collaboration! 🚀
+Hi, I’m Lithika!<br>CS freshman who loves collaborating, prototyping, and learning as much as I can along the way.<br>>For fun: I brainstorm startup ideas.<br><br>Always open to collaboration! 🚀
 
 
 ## 🌐 Socials:
