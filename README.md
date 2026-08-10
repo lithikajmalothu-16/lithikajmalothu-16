@@ -2,7 +2,7 @@
 
 I'm Lithika, a Computer Science student in the Honors College at Georgia State University.
 
-I work on product and analytics at the intersection of renewable energy and energy markets. I think the energy transition is as much a product problem as a technical one, so I spend most of my time turning market complexity into things people can actually use.
+Data Engineering and Analytics is field I am exploring at the moment;a  particular domain I am interested in : Renewables/ Cleantech.
 
 ## 📊 Projects
 
@@ -23,4 +23,4 @@ I work on product and analytics at the intersection of renewable energy and ener
 
 ## 📫 Elsewhere
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Medium](https://medium.com/@lithikajadav) · Email
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Medium](https://medium.com/@lithikajadav) · [Email](lithikajadav16@gmail.com)
