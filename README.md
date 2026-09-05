@@ -2,7 +2,7 @@
 
 I'm Lithika, a Computer Science student in the Honors College at Georgia State University.
 
-Currently exploring Data Engineering and Analytics. Domain Interests : Renewables / Smart City Solutions / Energy Transitions / Urban Design.
+Currently exploring Data Engineering and Analytics. Domain Interests : Renewables / Smart City Solutions / Energy Transitions /Climate-Tech.
 ## 📊 Projects
 
 | Repository | Description |
