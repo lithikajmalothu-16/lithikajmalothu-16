@@ -2,7 +2,7 @@
 
 Computer Science · Honors College, Georgia State University
 
-Exploring data engineering and analytics, with a focus on renewables, energy transitions, smart cities, and climate tech.
+Exploring data analytics, and program management with a focus on renewables, energy transitions, lithium-batteries/electricity storage, and climate tech.
 
 ---
 
