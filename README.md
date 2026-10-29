@@ -15,4 +15,4 @@
 
 </details>
 
-<sub>📚 Studying for PL-300 · AZ-900 · AI-901 &nbsp;·&nbsp; ✅ Introduction to ESG &nbsp;·&nbsp; 📝 Published, IJSET 2024</sub>
+<sub>📚 Studying for PL-300 · AZ-900 · AI-901 &nbsp;·&nbsp; <sub>
