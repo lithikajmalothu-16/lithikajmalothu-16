@@ -107,9 +107,3 @@ Turns raw sales spreadsheets into a star schema, DAX measures, and an interactiv
 
 ---
 
-### 🏆 Achievements & Certifications
-
-- 🎓 Dean's List, Fall 2025 & Spring 2026, Honors College, Georgia State University (GPA: 3.92)
-- 📝 Published: ML toxicity prediction paper, IJSET (2024)
-- ✅ Introduction to ESG (LinkedIn Learning)
-- 📚 In progress: Azure AI Fundamentals (AI-901) · Azure Fundamentals (AZ-900) · Power BI Data Analyst (PL-300)
